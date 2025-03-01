@@ -8,7 +8,7 @@ import yt_dlp
 # Bot Configuration
 API_ID = "29030564"
 API_HASH = "ca60e3c789ea8eb59580c845de56a541"
-BOT_TOKEN = "7724333720:AAFlhf9WTyKgf9IUnoMRqqwQLFJFt6rOeWw"
+BOT_TOKEN = "7694944924:AAFYqzznP4kmErG2gFlrTSs8Y6_8rh3hSPc"
 
 app = Client("my_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
